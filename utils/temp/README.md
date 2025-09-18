@@ -1,0 +1,1 @@
+Folder to store temporary files.

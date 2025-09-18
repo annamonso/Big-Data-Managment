@@ -1,0 +1,45 @@
+# Streamlit for frontend
+streamlit
+
+# databases
+duckdb==0.10.3
+
+# Apache Kafka
+kafka-python
+transformers
+torch
+tiktoken
+sentencepiece
+pymongo 
+datetime 
+# Delta Lake
+delta-spark==3.1.0
+
+# apache spark
+pyspark==3.5.0
+
+# Additional useful dependencies
+pandas
+requests
+matplotlib
+seaborn
+pytest
+dotenv
+
+#BluesSky API
+atproto
+
+# Openmeteo API
+openmeteo_requests
+requests_cache
+retry_requests
+
+# Google API (retrieve files from drive)
+gdown
+
+# Airflow
+apache-airflow
+
+plotly
+
+pymongo
