@@ -108,7 +108,7 @@ class air_quality_api:
 
     def __init__(self):
         #obtain the api key from the environment
-        self.api_key = 'fe4918b51d0ed064ddd68ad0844f214f79e1315c'
+        self.api_key = ''
 
     def get_air_quality_data(self, city:str):
         """
